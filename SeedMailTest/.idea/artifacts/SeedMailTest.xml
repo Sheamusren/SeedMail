@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-war" name="SeedMailTest">
-    <output-path>$PROJECT_DIR$/out/artifacts/SeedMailTest</output-path>
-    <root id="root">
-      <element id="dir-copy" path="$PROJECT_DIR$/WebContent" />
-    </root>
-  </artifact>
-</component>

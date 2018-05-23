@@ -3,7 +3,7 @@
   <display-name>SeedMailTest</display-name>
   <description>点击按钮发送邮件</description>
   <welcome-file-list>
-    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>NewFile.html</welcome-file>
   </welcome-file-list>
   
 <!--   <servlet>

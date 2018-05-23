@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="topbpm-console-service">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/topbpm-console-service.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
